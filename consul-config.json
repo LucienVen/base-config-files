@@ -1,0 +1,10 @@
+{
+  "datacenter": "dc1",
+  "data_dir": "/consul/data",
+  "bind_addr": "8.134.52.222",
+  "client_addr": "0.0.0.0",
+  "advertise_addr": "8.134.52.222",
+  "bootstrap_expect": 1,
+  "server": true,
+  "ui": true
+}
